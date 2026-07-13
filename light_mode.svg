@@ -22,31 +22,31 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="66">                                   </tspan>
 <tspan x="15" y="84">                                   </tspan>
 <tspan x="15" y="102">                                   </tspan>
-<tspan x="15" y="120">            }?                     </tspan>
-<tspan x="15" y="138">            [}][~+ &gt; ]             </tspan>
-<tspan x="15" y="156">          -?-]--l:I[__[            </tspan>
-<tspan x="15" y="174">        _&gt;&gt;_[-&gt;;l+ii+]}            </tspan>
-<tspan x="15" y="192">         _?}1]-[x\}(j|_            </tspan>
-<tspan x="15" y="210">         &gt;1]]}][+jj/)&lt;?)           </tspan>
-<tspan x="15" y="228">          &lt;!   ?[t(1:I-   ?|       </tspan>
-<tspan x="15" y="246">         (-';+? +]t\I` '{~?(       </tspan>
-<tspan x="15" y="264">       ) (\{l&gt;  ?1|)f~ [}?-        </tspan>
-<tspan x="15" y="282">        _11(1}?  &gt;&gt;&lt;t/)([}i&lt;-      </tspan>
-<tspan x="15" y="300">    (~, )  }-?\&lt;^?]?[] Xx\Q\? _)   </tspan>
-<tspan x="15" y="318">   ]!    }]-+&lt;?1{?-?[fc*$$$x}(&gt;))  </tspan>
-<tspan x="15" y="336">  -+l    [?~&lt;+l![|(\(1jW$$$1;_? \1 </tspan>
-<tspan x="15" y="354"> 1+&gt;  1&gt;&gt;[[}l &gt;!;+[[ +c$$$z"l]+I?\ </tspan>
-<tspan x="15" y="372"> }+   ?I??- ?!!&lt; (]&gt;+_rLr/(  1(+ [ </tspan>
-<tspan x="15" y="390">      I 1    ?~  !l ~1}/!!]   (]   </tspan>
-<tspan x="15" y="408">                     ) }      11   </tspan>
-<tspan x="15" y="426">         ))          ))))    ))))1 </tspan>
+<tspan x="15" y="120">                                   </tspan>
+<tspan x="15" y="138">            $$ $ $ $               </tspan>
+<tspan x="15" y="156">            }/($ { $$              </tspan>
+<tspan x="15" y="174">            [   '\; !)$            </tspan>
+<tspan x="15" y="192">         $#@$@$$$):|{)$            </tspan>
+<tspan x="15" y="210">         @[[     (:\[)             </tspan>
+<tspan x="15" y="228">          $$    $) !  $    $       </tspan>
+<tspan x="15" y="246">             $$ ] :\.(    $$       </tspan>
+<tspan x="15" y="264">         $$${   $]('(/ $@#         </tspan>
+<tspan x="15" y="282">         $@$ $$     [$#(   }       </tspan>
+<tspan x="15" y="300">            }#$# $$**  /    ]      </tspan>
+<tspan x="15" y="318">    $    $#[(  ${    $}}$$$ ;$$$$  </tspan>
+<tspan x="15" y="336">   $     @;\$$ *{$$$$;  $$$  [  $  </tspan>
+<tspan x="15" y="354">  $$   $ @@     ]{ #  /$$$  [$  $  </tspan>
+<tspan x="15" y="372">      ${@$   $    $$ } *  [   $$   </tspan>
+<tspan x="15" y="390">        $            $ $.]     $   </tspan>
+<tspan x="15" y="408">                                   </tspan>
+<tspan x="15" y="426">                                   </tspan>
 <tspan x="15" y="444">                                   </tspan>
 <tspan x="15" y="462">                                   </tspan>
 <tspan x="15" y="480">                                   </tspan>
 <tspan x="15" y="498">                                   </tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">sukuna@xsukuna</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="30">sukuna@xsukuna</tspan> -————————————————------------------------—-
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc">.....................</tspan><tspan class="value">Windows &lt; Android &lt; iOS &lt; Linux</tspan></tspan>
 <tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc">.................</tspan><tspan class="value" id="age_data">1035 years, 8 months, 12 days</tspan></tspan>
 <tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc">....................</tspan><tspan class="value">VS Code, Antigravity IDE, Cursor, Neovim, IntelliJ</tspan></tspan>
